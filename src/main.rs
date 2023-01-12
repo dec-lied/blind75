@@ -1,4 +1,4 @@
-pub mod product_of_array_except_self;
+pub mod find_minimum_from_rotated;
 
 fn main()
 {
