@@ -1,4 +1,4 @@
-pub mod find_minimum_from_rotated;
+pub mod linked_list;
 
 fn main()
 {
